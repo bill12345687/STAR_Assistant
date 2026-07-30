@@ -1,4 +1,4 @@
-# STAR_Assistant
+<img width="593" height="587" alt="image" src="https://github.com/user-attachments/assets/28e78d0a-124c-4d0b-9ee9-f87ba031c007" /># STAR_Assistant
 AI-energized material learning assistant
 # STAR 学习助手
 
@@ -356,9 +356,9 @@ Star-Multi-User/
 
 ## 9. 使用说明（Usage）
 
-> 在此处嵌入对应截图或动图，每张图配 2–3 句说明。
 
-### 图 1：登录页
+### 图 1：登录页<img width="593" height="587" alt="image" src="https://github.com/user-attachments/assets/407c93d7-061e-4c0c-9432-a6080ad570ca" />
+
 
 学生凭"学习码 + 姓名"登录（无需密码）；教师额外填写管理员密码。`httpOnly` Cookie 自动签发，30 天有效。登录后按角色进入不同界面。
 
