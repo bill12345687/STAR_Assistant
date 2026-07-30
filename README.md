@@ -356,14 +356,17 @@ Star-Multi-User/
 
 ## 9. 使用说明（Usage）
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/407c93d7-061e-4c0c-9432-a6080ad570ca" />
-###                         图 1：登录页
 
+### 图 1：登录页
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/407c93d7-061e-4c0c-9432-a6080ad570ca" />
 
 学生凭"学习码 + 姓名"登录（无需密码）；教师额外填写管理员密码。`httpOnly` Cookie 自动签发，30 天有效。登录后按角色进入不同界面。
 
 
 ### 图 2：知识图谱首页
+
+<img width="2542" height="1338" alt="动画" src="https://github.com/user-attachments/assets/be28a18d-ee80-4bd5-9474-77335a006060" />
+
 
 登录后的默认首页。节点表示知识点，颜色从灰到紫映射 0–4 级掌握度。图谱随学习进程动态生长——新知识加入、掌握度颜色更新。
 
@@ -371,7 +374,12 @@ Star-Multi-User/
 
 学生首次使用时，AI 引导完成学习目标识别 + 基础摸底（专业/编程/ML）。评估后即时生成三份画像（`USER.md` / `knowledge.md` / `study.md`），无需等待。
 
+<img width="400" height="300" alt="屏幕截图 2026-07-30 104333" src="https://github.com/user-attachments/assets/c4100dca-78b6-4425-ab8b-6fe4814eac07" /><img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/8bb6c5fb-7cd4-49cb-9c0c-d155747d59f7" />
+
 ### 图 4：选择课时与学习目标
+
+<img width="2528" height="1338" alt="动画" src="https://github.com/user-attachments/assets/23623538-c7fc-4028-ac38-72fe7d1320d9" />
+
 
 「学习」页列表展示课程的全部课时。单选某一课时后，可补充学习意图并标注熟悉程度。右侧/下方展示课堂概要（如有），帮助了解本节要点。
 
