@@ -143,9 +143,3 @@ STAR 不只服务学生。它把全班的学情，汇聚到老师手里：
 - **致谢**：Claude Code（Anthropic）的记忆机制启发了我们的核心设计；也感谢 llm_wiki(nashsu)、React、FastAPI、sentence-transformers、FAISS、graphology 等开源项目。
 
 ---
-
-## 项目展示
-
-🔗 **在线 README 与演示**：https://github.com/你的用户名/MatGuide-AI
-
-> 上面链接包含完整产品截图、操作动图（GIF）及技术说明，评审可点开直接查看。
