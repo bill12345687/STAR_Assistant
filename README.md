@@ -1,4 +1,4 @@
-<img width="593" height="587" alt="image" src="https://github.com/user-attachments/assets/28e78d0a-124c-4d0b-9ee9-f87ba031c007" /># STAR_Assistant
+# STAR_Assistant
 AI-energized material learning assistant
 # STAR 学习助手
 
