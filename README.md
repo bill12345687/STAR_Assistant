@@ -36,14 +36,13 @@
 <img width="400" height="400" alt="屏幕截图 2026-07-30 100658" src="https://github.com/user-attachments/assets/8d5f06c2-b03d-4ee1-8d79-a76d90f28cd9" />
 <img width="800" height="400" alt="动画" src="https://github.com/user-attachments/assets/b638f804-abae-4abb-b10b-57a8ffd1e37f" />
 
-> 📺 **动图 1**：登录 → 首页知识图谱（五色掌握度）
 
 ### 不凭空而谈：让 AI "有据可查"（我们最想让你看到的一点）
 
 当讲解用到课件 PDF 时，回答末尾会出现一个可点击的小标记 ①②；点一下，右侧就滑出课件，自动翻到被引用的那一页，正文会自动让出位置、不被挡住。同学随时能核对：AI 说的，到底对不对、出处在哪。讲稿和资料也会被参考，但只有课件出处会被编号——保证每个引用都能追到原页。
+
 <img width="800" height="400" alt="动画2" src="https://github.com/user-attachments/assets/b4620dd0-eb97-48e4-b41b-422f8c071fe0" />
 
-> 📺 **动图 2**：讲解出现 ①② → 点击 → 课件侧滑、跳到对应页 → 关闭回位
 
 ### 越用越懂你：会成长的三维画像 + 知识图谱
 
@@ -55,7 +54,6 @@
 
 你不需要手动去"设偏好"——AI 会在互动中观察你、总结你、适应你。而且掌握度只会升、不会降。首页的知识图谱会实时反映这些变化：节点颜色从灰、绿、蓝绿、蓝到紫，代表从"不了解"到"熟知原理"，进步一眼可见。
 
-> 📺 **动图 3**：学习之后，图谱节点变色、长出新节点
 
 <img width="600" height="550" alt="屏幕截图 2026-07-31 053613" src="https://github.com/user-attachments/assets/e9747d85-7252-4c88-8888-d08abd1dda70" />
 
