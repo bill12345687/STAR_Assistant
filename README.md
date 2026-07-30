@@ -356,11 +356,12 @@ Star-Multi-User/
 
 ## 9. 使用说明（Usage）
 
-
-### 图 1：登录页<img width="593" height="587" alt="image" src="https://github.com/user-attachments/assets/407c93d7-061e-4c0c-9432-a6080ad570ca" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/407c93d7-061e-4c0c-9432-a6080ad570ca" />
+###                         图 1：登录页
 
 
 学生凭"学习码 + 姓名"登录（无需密码）；教师额外填写管理员密码。`httpOnly` Cookie 自动签发，30 天有效。登录后按角色进入不同界面。
+
 
 ### 图 2：知识图谱首页
 
