@@ -71,13 +71,28 @@
 
 1. 先用一个开放问题把你带入情境，让你主动想，而不是干听；
 2. 再把知识拆成小块讲清楚，需要时带上课件出处；
+
+
+<img width="1000" height="500" alt="动画4，，，" src="https://github.com/user-attachments/assets/ea9ad578-b4aa-4b3e-8725-fc6ae1e131ba" />
+
+ 
 3. 用小练习即时检验、揪出盲区；
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7d609636-d56f-43c2-9e0d-0b3be7652e96" />
+
 4. 到合适的时候，据当前知识点，从老师传的视频里挑 1–3 个最相关的，直接在页面里播放；
+
+<img width="1000" height="500" alt="动画4，" src="https://github.com/user-attachments/assets/f464fb84-88b8-46df-8df6-c9ea68ea2476" />
+
 5. 走完清单，由你决定什么时候点"完成学习"——点之前不会动你的画像，你可以从容做完练习、继续追问；点之后，AI 才综合这次的表现更新画像、生成学习报告，并回到图谱，提示下一轮该补哪里。
 
 整个过程，你随时能追问、质疑、展开——你不是在机械地按"下一步"。
 
-> 📺 **动图 4**：一次完整学习：情景 → 讲解（带出处）→ 练习 → 视频打分 → 完成 → 报告
+<img width="1000" height="500" alt="动画4" src="https://github.com/user-attachments/assets/872b423d-4555-4458-96d6-4389eb7a1a95" />
+
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/c86c3d96-69ab-46aa-9ca4-df1096559a7b" />
+
+
 
 ---
 
@@ -94,7 +109,6 @@ STAR 不只服务学生。它把全班的学情，汇聚到老师手里：
 
 <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/c3c5fab1-eca8-47e2-be06-055575baceb8" />
 
-> 📺 **动图 5**：教师端：学生列表 → 点开画像 → 生成班级共性报告
 
 ---
 
